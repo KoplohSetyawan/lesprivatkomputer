@@ -16,7 +16,7 @@
  *
  * 3. Tempel (paste) connection string di antara tanda kutip di bawah,
  *    contoh:
- *    export const MANUAL_DATABASE_URL = "postgresql://user:pass@ep-xxx.neon.tech/neondb?sslmode=require";
+ *    export const MANUAL_DATABASE_URL = "postgresql://neondb_owner:npg_Xzr6gPBSvh7D@ep-withered-band-b4p533v6-pooler.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require";
  *
  * 4. Klik "Commit changes" → Vercel otomatis deploy ulang (±1 menit).
  *    SELESAI! Data admin kini tersimpan permanen. ✅
